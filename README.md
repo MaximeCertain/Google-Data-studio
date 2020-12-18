@@ -13,9 +13,9 @@ StackEdit stores your files in your browser, which means all your files are auto
 
 Les données du tableau de bord proviennent de Google Analytics et de son compte de démonstration accessible gratuitement qui permet d'examiner les données d'audience réelles du site.
 J'ai choisi ces données car en plus d'avoir des données crédibles et professionnelles, elles me permettaient d'avoir une première approche sur l'outil Google Analytics qui est un outil assez utilisé dans le monde professionnel.
-## Injection des données
+## Ingestion des données
 
-Pour injecter les données dans Google Data Studio, il a fallu tout d'abord accèder au compte de démonstration Google Analytics via ce lien https://support.google.com/analytics/answer/6367342?hl=fr <br>
+Pour ingérer les données dans Google Data Studio, il a fallu tout d'abord accèder au compte de démonstration Google Analytics via ce lien https://support.google.com/analytics/answer/6367342?hl=fr <br>
 Une fois celà fait, j'ai pu associer ces données à un rapport Google Data Studio grâce à un connecteur :
 <img src="https://www.pixenli.com/image/fs22VnAv"><br>
 Il suffisait simplement d'associer la Master View du compte de démonstration pour pouvoir ensuite associer le rapport à la source de données.
