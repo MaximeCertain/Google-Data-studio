@@ -17,9 +17,11 @@ J'ai choisi ces données car en plus d'avoir des données crédibles et professi
 
 Pour injecter les données dans Google Data Studio, il a fallu tout d'abord accèder au compte de démonstration Google Analytics via ce lien https://support.google.com/analytics/answer/6367342?hl=fr <br>
 Une fois celà fait, j'ai pu associer ces données à un rapport Google Data Studio grâce à un connecteur :
-<img src="https://www.pixenli.com/image/fs22VnAv">
+<img src="https://www.pixenli.com/image/fs22VnAv"><br>
 Il suffisait simplement d'associer la Master View du compte de démonstration pour pouvoir ensuite associer le rapport à la source de données.
 <img src="https://www.pixenli.com/image/JL0rm5Fb">
+<br>
+Il aussi possible d'exploiter la source de données avant de l'associer au rapport, pour, par exemple, associer des champs calculés.
 
 
 ## Ressources externes utilisées
