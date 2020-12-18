@@ -25,9 +25,9 @@ Il suffisait simplement d'associer la Master View du compte de démonstration po
 ## Ressources externes utilisées
 <p>Plusieurs ressources ont été utilisées 
 <ul>
-<li> <a href ="https://www.youtube.com/watch?v=4xmyomDMnnc&feature=youtu.be"> Cette vidéo</a>  tutoriel m'a été très utile pour apprendre les bases graphiques d'un tableau de bord, et les informations importantes à y placer</li>
+<li> <a href ="https://www.youtube.com/watch?v=4xmyomDMnnc&feature=youtu.be"> Cette vidéo</a>  tutoriel m'a été très utile pour apprendre les bases graphiques d'un tableau de bord, et les informations importantes à y placer. Aussi c'était une première approche sur l'outil avec des explications en langue Française ce qui m'a permis d'être plus à l'aise pour comprendre celles en langue anglaise par la suite.</li>
 <li>  j'ai également suivi <a href ="https://www.youtube.com/watch?v=p42a3WPGq5M"> Cette vidéo</a>  permettant de bien comprendre le fonctionnement de Google Analytics et notamment quelles sont les informations importantes à analyser pour faire des rapports. J'ai pu voir l'importance de données telles que le taux de conversion ou le taux de rebond.</li>
-<li> <br> J'ai pu <a href ="https://www.youtube.com/watch?v=zHpxMIiJrTA&feature=youtu.be"> ici</a>  comprendre comment utiliser les tendances de période pour bien indiquer si l'on est en hause ou en baisse par rapport à la période précédente. </li>
+<li> J'ai pu <a href ="https://www.youtube.com/watch?v=zHpxMIiJrTA&feature=youtu.be"> ici</a>  comprendre comment utiliser les tendances de période pour bien indiquer si l'on est en hause ou en baisse par rapport à la période précédente. </li>
 <li> <a href ="https://www.youtube.com/watch?v=FkxaBRiXlVc&feature=youtu.be "> ici</a>   Ici, j'ai pu découvrir comment  représenter des tableaux et les rendre visible sur l'outil Google Data Studio</li>
 <li> <a href ="https://support.google.com/datastudio/thread/18303668?hl=en"> Cette réponse</a>   su un forum de discussion m'a permis de comprendre comment modifier les libellés en créant un champs et en utilisant un case/when SQL</li>
 </ul>
