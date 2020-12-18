@@ -30,5 +30,7 @@ Il suffisait simplement d'associer la Master View du compte de démonstration po
 <li> J'ai pu <a href ="https://www.youtube.com/watch?v=zHpxMIiJrTA&feature=youtu.be"> ici</a>  comprendre comment utiliser les tendances de période pour bien indiquer si l'on est en hause ou en baisse par rapport à la période précédente. </li>
 <li> <a href ="https://www.youtube.com/watch?v=FkxaBRiXlVc&feature=youtu.be "> ici</a>   Ici, j'ai pu découvrir comment  représenter des tableaux et les rendre visible sur l'outil Google Data Studio</li>
 <li> <a href ="https://support.google.com/datastudio/thread/18303668?hl=en"> Cette réponse</a>   su un forum de discussion m'a permis de comprendre comment modifier les libellés en créant un champs et en utilisant un case/when SQL</li>
+<li> <a href ="https://coolors.co"> Cet outil</a>   m'a permis de choisir une palette graphique cohérente pour que le tableau de bord soit harmonieux</li>
+
 </ul>
 
